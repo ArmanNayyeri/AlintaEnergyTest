@@ -1,10 +1,6 @@
 ﻿using Xunit;
-using CustomerManagement.Services;
 using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Linq;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace CustomerManagement.Services.Tests

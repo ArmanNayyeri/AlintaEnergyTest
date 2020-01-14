@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Threading.Tasks;
-using System.Web.Http;
+﻿using System.Collections.Generic;
 using CustomerManagement.Models.Domain;
 using CustomerManagement.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CustomerManagement.Controllers

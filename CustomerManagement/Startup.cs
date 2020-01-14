@@ -1,19 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
 using CustomerManagement.Models.Entities;
 using CustomerManagement.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Diagnostics;
-using Microsoft.OpenApi.Models;
 using System.IO;
 
 namespace CustomerManagement
